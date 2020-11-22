@@ -1,0 +1,2 @@
+# dotfiles
+Configuración del sistema
